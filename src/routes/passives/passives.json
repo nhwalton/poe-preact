@@ -1,0 +1,152 @@
+[
+    {
+      "act": "Act 1",
+      "skill": 1,
+      "quest": "Dweller of the Deep",
+      "trial": "Lower Prison"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Marooned Mariner",
+      "trial": ""
+    },
+    {
+      "act": "",
+      "skill": 2,
+      "quest": "Way Forward",
+      "trial": ""
+    },
+    {
+      "act": "Act 2",
+      "skill": 2,
+      "quest": "Deal with the Bandits",
+      "trial": "Crypt (Level 1)"
+    },
+    {
+      "act": "",
+      "skill": null,
+      "quest": "",
+      "trial": "Chamber of Sins (Level 2)"
+    },
+    {
+      "act": "Act 3",
+      "skill": 1,
+      "quest": "Victario's Secrets",
+      "trial": "Crematorium"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Piety's Pets",
+      "trial": "Catacombs"
+    },
+    {
+      "act": "",
+      "skill": null,
+      "quest": "",
+      "trial": "Imperial Gardens"
+    },
+    {
+      "act": "Act 4",
+      "skill": 1,
+      "quest": "Indomitable Spirit",
+      "trial": ""
+    },
+    {
+      "act": "Act 5",
+      "skill": 1,
+      "quest": "Service to Science",
+      "trial": ""
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Kitava's Torments",
+      "trial": ""
+    },
+    {
+      "act": "Act 6",
+      "skill": 1,
+      "quest": "Father of War",
+      "trial": "Lower Prison"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Cloven One",
+      "trial": ""
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Puppet Mistress",
+      "trial": ""
+    },
+    {
+      "act": "Act 7",
+      "skill": 1,
+      "quest": "Master of a Million Faces",
+      "trial": "Crypt"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Queen of Despair",
+      "trial": "Chamber of Sins (Level 2)"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Kishara's Star",
+      "trial": ""
+    },
+    {
+      "act": "Act 8",
+      "skill": 1,
+      "quest": "Love is Dead",
+      "trial": "Bath House"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Gemling Legion",
+      "trial": ""
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Reflection of Terror",
+      "trial": ""
+    },
+    {
+      "act": "Act 9",
+      "skill": 1,
+      "quest": "Queen of the Sands",
+      "trial": "Tunnel"
+    },
+    {
+      "act": "",
+      "skill": 1,
+      "quest": "Ruler of Highgate",
+      "trial": ""
+    },
+    {
+      "act": "Act 10",
+      "skill": 1,
+      "quest": "Map to Tsoatha",
+      "trial": "Ossuary"
+    },
+    {
+      "act": "",
+      "skill": 2,
+      "quest": "End to Hunger",
+      "trial": ""
+    },
+    {
+      "act": "Sum",
+      "skill": 24,
+      "quest": "",
+      "trial": ""
+    }
+   ]

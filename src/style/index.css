@@ -1,0 +1,142 @@
+:root {
+  --mdc-theme-surface: #444;
+  --mdc-theme-primary: #00363a;
+}
+
+html, body {
+	min-height: 100vh;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: 'Helvetica Neue', arial, sans-serif;
+	font-weight: 400;
+	color: #fff;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #333;
+  background-image: url(../assets/WftA_background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* fallback */
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialicons/v29/2fcrYFNaTjcS6g4U3t-Y5UEw0lE80llgEseQY3FEmqw.woff2) format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#app {
+	height: 100%;
+}
+
+.mdc-theme--dark {
+	background-color: #333 !important;
+	color: #fff;
+}
+
+.mdc-theme--dark .mdc-card {
+  background-color: #444;
+	color: #fff;
+}
+
+.mdc-card.elevated {
+  padding:0px 20px 25px;
+  background-color: #555;
+  color: #fff;
+  box-shadow: 0px 6px 4px -2px rgba(0, 0, 0, 0.2), 0px 4px 8px 0px rgba(0, 0, 0, 0.14), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+/* .mdc-theme--dark .elevated {
+  background-color: #555;
+  color: #fff;
+  } */
+
+#app .page {
+  padding-top: 56px;
+}
+
+.react-hint--top:after {
+	top: auto;
+	border-bottom: none;
+	border-top-color: #555 !important;
+}
+
+.react-hint--left:after {
+	left: auto;
+	border-right: none;
+	border-left-color: #555 !important;
+}
+
+.react-hint--right:after {
+	right: auto;
+	border-left: none;
+	border-right-color: #555 !important;
+}
+
+.react-hint--bottom:after {
+	bottom: auto;
+	border-top: none;
+	border-bottom-color: #555 !important;
+}
+
+.mdc-drawer .mdc-list-item--activated {
+  color: #00363a !important;
+}
+
+.mdc-drawer .mdc-list-item--activated .mdc-list-item__graphic {
+  color: #00363a !important;
+}
+
+.mdc-drawer {
+  background-color:#222 !important;
+  color:#fff !important;
+}
+
+.mdc-drawer .mdc-list-item {
+  color:#fff !important;
+  font-size:1rem !important;
+  padding:0 20px !important;
+}
+
+.mdc-drawer .mdc-list-item > img{
+  margin-right:20px;
+  opacity: 0.5;
+}
+
+.mdc-drawer .mdc-list-item:hover > img{
+  margin-right:20px;
+  opacity: .8;
+}
+
+.mdc-drawer .mdc-list-item--activated:hover {
+  opacity: 1;
+}
+
+.mdc-drawer .mdc-list-item__graphic {
+  color:rgba(255, 255, 255, 0.781) !important;
+}
